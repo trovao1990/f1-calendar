@@ -14,7 +14,7 @@ const MESSAGES = {
     metaDescription:
       "Consulte o calendário da Fórmula 1 por ano e baixe eventos para o calendário do seu celular.",
     appTitle: "Calendário F1",
-    appSubtitle: "Datas, horários e download para o seu calendário",
+    appSubtitle: "Datas, horários e possibilidade de download do calendário",
     controlsAria: "Filtros",
     season: "Temporada",
     selectYear: "Selecionar ano",
